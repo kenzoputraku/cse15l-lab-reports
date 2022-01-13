@@ -1,6 +1,6 @@
 Hello, world!
-*Trying Italic*
-**Trying Bold**
+*Kenzo's trip*
+**2021**
 # My winter break trip
 [Link](https://kenzoputraku.github.io/cse15l-lab-reports/)
 > Vegas
