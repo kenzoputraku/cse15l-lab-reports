@@ -1,10 +1,9 @@
 Hello, world!
 *Trying Italic*
 **Trying Bold**
-# This is my first header
-## This is my second header
+# My winter break trip
 [Link](https://kenzoputraku.github.io/cse15l-lab-reports/)
-> Blockquote
-* list
-* list2
-* list3
+> Vegas
+* Eat good food
+* Hang out with friends
+* Have fun
