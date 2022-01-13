@@ -25,6 +25,6 @@ print2
 ```
 
 ![Image]
-(http://url/b.jpg)
+(http://url/a.png)
 
 
