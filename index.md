@@ -6,7 +6,7 @@ Hello, world!
 > Vegas
 * Eat good food
 * Hang out with friends
-* Have fun
+
 
 ## Next trip plan
 1. Los Angeles
