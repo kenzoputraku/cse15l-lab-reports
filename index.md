@@ -5,6 +5,6 @@ Hello, world!
 ## This is my second header
 [Link](https://kenzoputraku.github.io/cse15l-lab-reports/)
 > Blockquote
-*list
-*list2
-*list3
+* list
+* list2
+* list3
