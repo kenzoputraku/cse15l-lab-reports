@@ -24,7 +24,6 @@ print1
 print2
 ```
 
-![Image]
-(![image](https://user-images.githubusercontent.com/97646152/149253538-894f300b-cd61-4211-9b21-e1ddfd29637f.png))
+![image](https://user-images.githubusercontent.com/97646152/149253538-894f300b-cd61-4211-9b21-e1ddfd29637f.png)
 
 
