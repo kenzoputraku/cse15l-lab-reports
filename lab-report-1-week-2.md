@@ -98,7 +98,7 @@ You should be prompted for a password just like when you log in with `ssh`.
 Your terminal should look like this:
 ![scp image](step4.1.png)
 
-5. log in into **ieng6** with ssh again, and run the command `ls` on the terminal. You should see the file there in your home directory.
+4. log in into **ieng6** with ssh again, and run the command `ls` on the terminal. You should see the file there in your home directory.
 
 Now you can run the file using `javac` and `java` commands on the server(**ieng6** computer) since java is installed on the server.
 
