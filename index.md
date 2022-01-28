@@ -1,20 +1,21 @@
-Hello, world!
-*Kenzo's trip*
-**2021**
-# My winter break trip
-[Link](https://kenzoputraku.github.io/cse15l-lab-reports/)
-> Vegas
-* Eat good food
-* Hang out with friends
+# Welcome to Kenzoo's CSE 15L Page!
+## You can find different pages that Kenzo made throughout the Winter 2022 quarter in UCSD
+
+1. *Try adding lab-report-1-week-2.html to the end of the link to see his first lab report*
+2. **Try adding lab-report-2-week-4.html to the end of the link to see his second lab report**
 
 
-## Next trip plan
-1. Los Angeles
-2. San Fransisco
-3. Seattle
-4. Texas
+[Link to my github CSE 15L repository](https://kenzoputraku.github.io/cse15l-lab-reports/)
 
-Line?:
+
+> More lab reports will come soon!
+* Learning step by step
+
+
+
+
+
+
 
 ---
 
