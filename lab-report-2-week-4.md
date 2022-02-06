@@ -4,6 +4,11 @@
 ![First code change](lab2Report.1.png)
 
 [Link to test file 1](https://github.com/kenzoputraku/markdown-parse/blob/main/image.md)
+```
+Kenzos-MacBook-Pro:markdown-parse kenzo$ javac -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar MarkdownParseTest.java
+
+Kenzos-MacBook-Pro:markdown-parse kenzo$ java -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar org.junit.runner.JUnitCore MarkdownParseTest
+```
 ### Symptom
 ```
 [google.com, Image.png]
@@ -17,7 +22,11 @@ The failure inducing input file (image.md) has a line that contains the referenc
 
 [Link to the test file 2](https://github.com/kenzoputraku/markdown-parse/blob/main/incorrect.md)
 
+```
+Kenzos-MacBook-Pro:markdown-parse kenzo$ javac -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar MarkdownParseTest.java
 
+Kenzos-MacBook-Pro:markdown-parse kenzo$ java -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar org.junit.runner.JUnitCore MarkdownParseTest
+```
 ### Symptom 
 ```
 Exception in thread "main" java.lang.StringIndexOutOfBoundsException: begin 22, end -1, length 36
@@ -33,6 +42,11 @@ The failure inducing file contains a link format that is incorrect because it do
 
 [Link to test file 3](https://github.com/kenzoputraku/markdown-parse/blob/main/doubleParenthesis.md)
 
+```
+Kenzos-MacBook-Pro:markdown-parse kenzo$ javac -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar MarkdownParseTest.java
+
+Kenzos-MacBook-Pro:markdown-parse kenzo$ java -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar org.junit.runner.JUnitCore MarkdownParseTest
+```
 ### Symptom
 ```
 Exception in thread "main" java.lang.StringIndexOutOfBoundsException: String index out of range: -2
