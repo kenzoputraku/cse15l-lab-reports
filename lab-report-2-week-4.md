@@ -28,5 +28,6 @@ The failure inducing file contains a link format that is incorrect because it do
 
 
 ### Symptom
-![double paren image](doubleparenIO.png))
-The failure inducing file contains a line that have a link format but have double open and closing parenthesis. This causes the code to get the link inside the double parenthesis and not the link with the outer parenthesis so it causes the symptom
+![double paren image](doubleparenIO.png)
+
+The failure inducing file contains a line that have a link format but have double open and closing parenthesis. This causes the code to get the link inside the double parenthesis and not the link with the outer parenthesis so it causes the symptom.
