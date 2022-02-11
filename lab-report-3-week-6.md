@@ -17,7 +17,7 @@ Host ieng6
     IdentityFile ~/.ssh/id_rsa
 ```
 
- ## ssh command to log in to my ssh account
+## ssh command to log in to my ssh account
 
  ![ssh command](trySSHieng6.png)
 
