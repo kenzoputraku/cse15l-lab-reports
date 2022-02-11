@@ -9,7 +9,7 @@ To find this .ssh folder, I type
 ```
 code .ssh
 ```
-in the terminal and it takes me to the .ssh folder and from there I created a new file and name it `config` and inside it I put the code
+in the terminal and it takes me to the `.ssh` folder and from there I created a new file and name it `config` and inside it I put the code
 ```
 Host ieng6
     HostName ieng6.ucsd.edu
