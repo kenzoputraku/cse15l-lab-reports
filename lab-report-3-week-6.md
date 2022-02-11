@@ -21,7 +21,7 @@ Host ieng6
 
  ![ssh command](trySSHieng6.png)
 
- to log in into my ssn I run the command
+ To log in into my ssn I run the command
  ```
  ssh ieng6
  ```
