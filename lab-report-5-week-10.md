@@ -7,6 +7,9 @@
 `diff <Path of first result.txt> <Path of second result.txt>` 
 on the command line to get the difference.
 ## Test 1 
+### Test file
+![497.md](497.png)
+### Result difference
 ![test1](test1lab9.png)
 The top output is my own implementation while the bottom output is the code given to me. This difference is in the file named 497.md. I think that both implementation are wrong because my code produce an output with missing closing parenthesis and the given code produces an output that is empty. And I think that the expected output is `[foo\(and\(bar\)]` because there are no spaces between them and it's inside the open and close parenthesis, in the correct link format. 
 
@@ -16,6 +19,9 @@ I think that the bug in the my code is when there is an extra closing parenthesi
 I think that I can fix this code by changing the `indexOf` method into a `lastIndexOf` method in line 19.
 
 ## Test 2
+###  Test file
+![32.md](32.png)
+### Result difference
 ![test2](test2lab9.png)
 The top output is my own implementation while the bottom output is the code given to me. The test file that causes this difference is 32.md.
 I think that the implementation given by the instructor is correct because when there is a space inside the link, we should not add it into the ArrayList so the correct output should be an empty ArrayList.
